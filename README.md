@@ -1,6 +1,7 @@
 # StockViz - Intelligent Stock Market Visualization Platform
 
-![StockViz Logo](frontend/public/vite.svg)
+![StockViz Logo](https://github.com/user-attachments/assets/5993f313-1c2a-46e4-8911-ea1215e9f07c)
+
 
 ## Overview
 
